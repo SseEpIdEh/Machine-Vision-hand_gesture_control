@@ -1,4 +1,4 @@
-# Machine-Vision-virtual-
+# Machine-Vision-hand_gesture_control-
 
 Hand Gesture Control using OpenCV and cvzone
 This repository contains a Python script that enables hand gesture control using the OpenCV and cvzone libraries. With this script, you can control your mouse cursor and perform clicks using hand gestures.
