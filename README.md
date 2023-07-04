@@ -31,5 +31,29 @@ You can further customize and extend the functionality based on your requirement
 
 Contributions
 Contributions to this repository are welcome. If you have any improvements, bug fixes, or additional features to add, please feel free to create a pull request.****
+*******************************************************************************************************************
+**FINGER COUNTER
+
+**This project utilizes computer vision techniques to count the number of fingers shown in front of a webcam. By tracking hand landmarks, the program detects the open or closed state of each finger and provides a real-time count.**
+
+***Features**
+1.Uses the webcam to capture video frames
+2.Detects hand landmarks using the Mediapipe library
+3.Determines the open or closed state of each finger
+4.Calculates and displays the number of fingers
+5.Provides a visual representation of the finger count on the video frame
+**Prerequisites**
+Python 3.x
+OpenCV library
+Mediapipe library
+Webcam connected to the computer
+**Usage**
+-Install the required libraries by running pip install opencv-python mediapipe.
+-Connect a webcam to your computer.
+-Run the script main.py.
+-Position your hand in front of the webcam.
+-Observe the finger count displayed on the video frame.
+***Acknowledgments**
+This project is based on the work of the HandModule library for hand tracking.
 
 
