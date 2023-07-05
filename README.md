@@ -47,15 +47,15 @@ You can further customize and extend the functionality based on your requirement
 
 **Features:**
 
-1.Uses the webcam to capture video frames
+1.Use the webcam to capture video frames
 
-2.Detects hand landmarks using the Mediapipe library
+2.Detect hand landmarks using the Mediapipe library
 
-3.Determines the open or closed state of each finger
+3.Determine the open or closed state of each finger
 
-4.Calculates and displays the number of fingers
+4.Calculate and displays the number of fingers
 
-5.Provides a visual representation of the finger count on the video frame
+5.Provide a visual representation of the finger count on the video frame
 
 
 **Prerequisites:**
@@ -73,8 +73,5 @@ Webcam connected to the computer
 -Position your hand in front of the webcam.
 -Observe the finger count displayed on the video frame.
 
-**Acknowledgments:**
-
-This project is based on the work of the HandModule library for hand tracking.
 
 
