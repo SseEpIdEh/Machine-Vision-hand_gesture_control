@@ -17,7 +17,9 @@ pyautogui,
 To run the script, follow these steps:
 
 Clone the repository to your local machine.
+
 Connect a webcam to your computer.
+
 Open a terminal and navigate to the repository directory.
 
 
