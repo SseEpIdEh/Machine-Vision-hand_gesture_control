@@ -11,6 +11,7 @@ Python 3,
 OpenCV,
 cvzone,
 pyautogui,
+
 Usage
 To run the script, follow these steps:
 
