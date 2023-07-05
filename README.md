@@ -12,7 +12,7 @@ OpenCV,
 cvzone,
 pyautogui,
 
-Usage
+Usage:
 To run the script, follow these steps:
 
 Clone the repository to your local machine.
