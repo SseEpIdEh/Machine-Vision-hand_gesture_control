@@ -55,8 +55,11 @@ Perform hand gestures in front of the webcam to control the mouse cursor
 **Prerequisites:**
 
 Python 3.x
+
 OpenCV library
+
 Mediapipe library
+
 Webcam connected to the computer
 
 **Usage:**
