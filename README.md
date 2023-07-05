@@ -41,7 +41,7 @@ You can further customize and extend the functionality based on your requirement
 
 
 *******************************************************************************************************************
-**FINGER COUNTER
+**FINGER COUNTER:**
 
 **This project utilizes computer vision techniques to count the number of fingers shown in front of a webcam. By tracking hand landmarks, the program detects the open or closed state of each finger and provides a real-time count.**
 
