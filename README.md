@@ -39,8 +39,7 @@ This script provides a basic implementation of hand gesture control.
 
 You can further customize and extend the functionality based on your requirements. 
 
-Contributions
-Contributions to this repository are welcome. If you have any improvements, bug fixes, or additional features to add, please feel free to create a pull request.****
+
 *******************************************************************************************************************
 **FINGER COUNTER
 
