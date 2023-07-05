@@ -4,8 +4,8 @@
 Hand Gesture Control using OpenCV and cvzone.
 This repository contains a Python script that enables hand gesture control using the OpenCV and cvzone libraries. With this script, you can control your mouse cursor and perform clicks using hand gestures.
 
-Installation
-**To use this script, you need to have the following dependencies installed:**
+**Installation**,
+To use this script, you need to have the following dependencies installed:
 
 Python 3
 OpenCV
