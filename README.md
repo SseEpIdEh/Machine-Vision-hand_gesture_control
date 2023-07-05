@@ -7,12 +7,11 @@ This repository contains a Python script that enables hand gesture control using
 **Installation**,
 To use this script, you need to have the following dependencies installed:
 
-Python 3
-OpenCV
-cvzone
-pyautogui
-
-Usage
+Python 3,
+OpenCV,
+cvzone,
+pyautogui,
+Usage,
 To run the script, follow these steps:
 
 Clone the repository to your local machine.
