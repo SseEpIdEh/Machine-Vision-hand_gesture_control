@@ -61,11 +61,15 @@ Webcam connected to the computer
 
 **Usage:**
 
--Install the required libraries by running pip install opencv-python mediapipe.
--Connect a webcam to your computer.
--Run the script main.py.
--Position your hand in front of the webcam.
--Observe the finger count displayed on the video frame.
+1.Install the required libraries by running pip install opencv-python mediapipe.
+
+2.Connect a webcam to your computer.
+
+3.Run the script main.py.
+
+4.Position your hand in front of the webcam.
+
+5.Observe the finger count displayed on the video frame.
 
 
 
