@@ -33,12 +33,6 @@ Perform hand gestures in front of the webcam to control the mouse cursor
 
 **If you raise your little finger (pinky), a mouse click will be performed.**
 
-**Customization and Extension :**
-
-This script provides a basic implementation of hand gesture control. 
-
-You can further customize and extend the functionality based on your requirements. 
-
 
 *******************************************************************************************************************
 **FINGER COUNTER:**
