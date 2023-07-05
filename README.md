@@ -25,7 +25,7 @@ Open a terminal and navigate to the repository directory.
 
 
 The script will access your webcam and display the video feed.
-Perform hand gestures in front of the webcam to control the mouse cursor:
+Perform hand gestures in front of the webcam to control the mouse cursor
 
 **If you raise your index finger and lower your middle finger, the cursor will move to the right.**
 
