@@ -1,3 +1,6 @@
+> This project demonstrates practical experience with **real-time computer vision, human–machine interaction, and sensor-based input processing**, which are relevant to robotics perception and intelligent interface systems.
+
+
 # Real-Time Hand Gesture Recognition for Human–Computer Interaction
 
 This project implements a real-time **hand gesture recognition system** using computer vision techniques. The system uses a webcam to detect and track hand landmarks and translates specific gestures into interactive computer commands such as cursor movement and mouse clicks.
@@ -80,15 +83,84 @@ This project demonstrates the potential of **vision-based interaction systems**,
 * Touchless control systems
 * Assistive technologies
 
+
+
+### `hand_tracking_module.py`
+
+Implements a reusable hand tracking module using **MediaPipe and OpenCV** for detecting hand landmarks and finger positions in real-time webcam video.
+
+### `gesture_control.py`
+
+Main application script that interprets detected hand gestures and converts them into **mouse cursor movements and click actions**.
+
+### `finger_counter.py`
+
+Demonstrates finger state detection by analyzing hand landmark positions and counting the number of raised fingers.
+
 ---
 
-💡 **Suggestion (important for internship applications):**
-At the top of your GitHub README, add one sentence like this:
+# Add a requirements.txt (important for recruiters)
 
-> This project demonstrates practical experience with **real-time computer vision, human–machine interaction, and sensor-based input processing**, which are relevant to robotics perception and intelligent interface systems.
+Create a file called **requirements.txt**:
 
+```
+opencv-python
+mediapipe
+numpy
+cvzone
+pyautogui
+```
+
+Then in README you can write:
+
+```bash
+pip install -r requirements.txt
+```
+
+This looks **much more professional**.
 
 ---
+
+# One more important improvement (for your robotics internship)
+
+Add this **at the top of the README**:
+
+**Technologies Used**
+
+* Python
+* OpenCV
+* MediaPipe
+* Real-time video processing
+* Gesture recognition
+* Human–Computer Interaction (HCI)
+
+This helps recruiters quickly see your **technical stack**.
+
+---
+
+# One more VERY important suggestion
+
+Since you are applying to a **Computer Vision / Robotics internship**, rename the repository to something stronger:
+
+**Instead of**
+
+```
+Machine-Vision-hand_gesture_control
+```
+
+**Use**
+
+```
+real-time-hand-gesture-recognition
+```
+
+or
+
+```
+vision-based-hand-gesture-control
+```
+
+
 
 
 
