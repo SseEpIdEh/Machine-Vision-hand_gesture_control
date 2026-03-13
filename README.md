@@ -1,4 +1,4 @@
-# Machine-Vision-hand_gesture_control- and count the fingers
+# Real-Time Hand Gesture Recognition for Human–Computer Interaction
 
 
 Hand Gesture Control using OpenCV and cvzone.
